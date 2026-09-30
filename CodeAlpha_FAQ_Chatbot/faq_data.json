@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is Python?",
+    "answer": "Python is a popular programming language."
+  },
+  {
+    "question": "What is Machine Learning?",
+    "answer": "Machine Learning enables computers to learn from data."
+  },
+  {
+    "question": "What is Artificial Intelligence?",
+    "answer": "Artificial Intelligence is the simulation of human intelligence by machines."
+  },
+  {
+    "question": "What is Data Science?",
+    "answer": "Data Science is the process of analyzing data to gain insights."
+  },
+  {
+    "question": "What is GitHub?",
+    "answer": "GitHub is a platform used to host and manage code repositories."
+  }
+]
